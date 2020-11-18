@@ -65,4 +65,4 @@ endfunction
 
 
 " Restore previous external compatibility options
-let &cpo = s:save_cpogg
+let &cpo = s:save_cpo
